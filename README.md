@@ -1,6 +1,16 @@
-### Hi there 👋
+### Hello there 👋
+
+#### A Backend Developer who still learning
+
 
 <!--
+.Net Developer at [Astra international]<br>
+
+- 
+- ⚙️ I use daily: `.php`, `.js`, `.html`, `.css`, `.svg`, `.psd`, `.ai`
+- 🌍 I'm mostly active within the **Laravel Community**
+- 💅 Designed: @pestphp, [NorthMeetsSouth.audio](https://www.northmeetssouth.audio), [ThenPing.me](https://thenping.me), [HappydDev.fm](https://www.happydev.fm), etc…
+- 💬 `ping` me about **design**, **branding**, **laravel**, **development**, **design thinking**
 **CrimsonSZ-Q/CrimsonSZ-Q** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
