@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-<img src="https://jid.jasamarga.com/cctv2/1815a00?tx=1646733773121&t=20220915110931778" width=500/>
+<img src="https://jid.jasamarga.com/cctv2/a75bebf?tx=1646733773121&t=20220915111338313" width=500/>
 
 #### A Backend Developer who still learning
 
